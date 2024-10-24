@@ -1,6 +1,6 @@
 # BOZP Portal Penetration Test Report
 
-This repository contains the penetration testing report for the **BOZP Portal**, conducted as part of a semester project by **Elnar Yantay** and my colleague **Yaroslav Bakhirkin**. The goal of the test was to identify security vulnerabilities within the BOZP Portal, evaluate its resilience against cyber threats, and suggest remediation steps for the discovered vulnerabilities.
+This repository contains the penetration testing report for the **BOZP Portal**, conducted as part of a semester project by **Elnar Yantay** and **Yaroslav Bakhirkin**. The goal of the test was to identify security vulnerabilities within the BOZP Portal, evaluate its resilience against cyber threats, and suggest remediation steps for the discovered vulnerabilities.
 
 ## Project Overview
 
